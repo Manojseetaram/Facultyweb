@@ -8,6 +8,6 @@ function signIn() {
         warning.style.display = 'block';
     } else {
         
-        window.location.href = '/assets/hello.html';
+        window.location.href = 'hello.html';
     }
 }
