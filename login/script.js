@@ -8,6 +8,6 @@ function signIn() {
         warning.style.display = 'block';
     } else {
         
-        window.location.href = '/hello.html';
+        window.location.href = 'https://editpagealvascollege.onrender.com/';
     }
 }
