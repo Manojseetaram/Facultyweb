@@ -110,6 +110,7 @@ a.nav-link-bar {
     margin-top: 17px;
 }
 .btn-primary {
-    
+    /* color: #fff; */
     background-color:orangered;
-    border-color: orangered;}
+    border-color:orangered;
+}
